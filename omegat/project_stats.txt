@@ -1,0 +1,19 @@
+1/21/18 3:49 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      96	  573	                       3789	                         4056	     6	
+Remaining:       	       6	  328	                       2602	                         2720	     6	
+Unique:          	      50	  252	                       1544	                         1675	     5	
+Unique Remaining:	       2	  110	                        872	                          911	     2	
+
+
+Individual File Statistics:
+
+File Name                  	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+audioPage/audioPage.po     	             2	                 1	              2	                        1	         56	             54	          56	                    54	                              440	                                  429	                               440	                                         429	                                461	                                    449	                                 461	                                           449	
+main.po                    	            14	                 1	             13	                        0	         93	             54	          39	                     0	                              594	                                  429	                               165	                                           0	                                640	                                    449	                                 191	                                             0	
+special.po                 	            31	                 1	             28	                        0	        145	             54	          85	                     0	                              867	                                  429	                               414	                                           0	                                946	                                    449	                                 469	                                             0	
+test/FAQ/mono.po           	            23	                 1	              4	                        1	        110	             56	          63	                    56	                              718	                                  443	                               477	                                         443	                                767	                                    462	                                 500	                                           462	
+test/FAQ/play-page/start.po	             5	                 1	              3	                        0	         66	             56	           9	                     0	                              492	                                  443	                                48	                                           0	                                517	                                    462	                                  54	                                             0	
+test/GUI/mono0.po          	            21	                 1	              0	                        0	        103	             54	           0	                     0	                              678	                                  429	                                 0	                                           0	                                725	                                    449	                                   0	                                             0	

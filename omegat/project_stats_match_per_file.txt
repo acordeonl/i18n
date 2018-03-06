@@ -1,0 +1,36 @@
+6/22/17 5:15 AM
+File 1: main.json
+                             	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Repetitions within this file:	       0	    0	                          0	                            0	
+Repetitions from other files:	       0	    0	                          0	                            0	
+Exact match:                 	       6	   11	                         51	                           54	
+95%-100%:                    	       0	    0	                          0	                            0	
+85%-94%:                     	       1	    2	                         19	                           20	
+75%-84%:                     	       0	    0	                          0	                            0	
+50%-74%:                     	       0	    0	                          0	                            0	
+No match:                    	       7	   14	                         76	                           83	
+Total:                       	      14	   27	                        146	                          157	
+
+File 2: main.po
+                             	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Repetitions within this file:	       0	    0	                          0	                            0	
+Repetitions from other files:	       0	    0	                          0	                            0	
+Exact match:                 	      16	   34	                        182	                          198	
+95%-100%:                    	       0	    0	                          0	                            0	
+85%-94%:                     	       0	    0	                          0	                            0	
+75%-84%:                     	       0	    0	                          0	                            0	
+50%-74%:                     	       0	    0	                          0	                            0	
+No match:                    	       0	    0	                          0	                            0	
+Total:                       	      16	   34	                        182	                          198	
+
+For all files:
+            	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Repetitions:	       0	    0	                          0	                            0	
+Exact match:	      22	   45	                        233	                          252	
+95%-100%:   	       0	    0	                          0	                            0	
+85%-94%:    	       1	    2	                         19	                           20	
+75%-84%:    	       0	    0	                          0	                            0	
+50%-74%:    	       0	    0	                          0	                            0	
+No match:   	       7	   14	                         76	                           83	
+Total:      	      30	   61	                        328	                          355	
+

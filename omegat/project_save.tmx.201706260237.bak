@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>1 $t(nesting2)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T085124Z" creationid="camilo" creationdate="20170622T085124Z">
+        <seg>1 $t(nesting2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2 $t(nesting3)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T085122Z" creationid="camilo" creationdate="20170622T085122Z">
+        <seg>2 $t(nesting3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T085135Z" creationid="camilo" creationdate="20170622T085135Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A boyfriend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T085112Z" creationid="camilo" creationdate="20170622T085112Z">
+        <seg>Un novio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A friend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T085046Z" creationid="camilo" creationdate="20170622T085046Z">
+        <seg>Un amigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A girlfriend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T085120Z" creationid="camilo" creationdate="20170622T085120Z">
+        <seg>Una novia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new attribute.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T063906Z" creationid="camilo" creationdate="20170623T063906Z">
+        <seg>Un atributo nuevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T052504Z" creationid="camilo" creationdate="20170623T052504Z">
+        <seg>Cancela acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greeting message</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T064133Z" creationid="camilo" creationdate="20170623T064133Z">
+        <seg>Mensaje de saludo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greeting message 2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T073641Z" creationid="camilo" creationdate="20170623T073641Z">
+        <seg>Mensaje de saludo 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greeting message at start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T075202Z" creationid="camilo" creationdate="20170623T075202Z">
+        <seg>Saludando mensaje en inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greeting message good</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T080132Z" creationid="camilo" creationdate="20170623T080132Z">
+        <seg>Mensaje de saludo bueno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello Felix how are you???</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T022942Z" creationid="camilo" creationdate="20170626T022942Z">
+        <seg>Hola Felix cómo eres???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello new user</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T080223Z" creationid="camilo" creationdate="20170623T080223Z">
+        <seg>Hola Usuario nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello user how are you?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T080930Z" creationid="camilo" creationdate="20170623T080930Z">
+        <seg>Hola usuario como estás?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello {{who}}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T082446Z" creationid="camilo" creationdate="20170623T082446Z">
+        <seg>Hola {{who}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello {{who}} how are you today?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T083140Z" creationid="camilo" creationdate="20170623T083140Z">
+        <seg>Hola {{who}} como estás hoy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hello {{who}} how are you?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T082754Z" creationid="camilo" creationdate="20170623T082754Z">
+        <seg>Hola {{who}} como estás?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Message with something else</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T022215Z" creationid="camilo" creationdate="20170626T022215Z">
+        <seg>Mensaje con algo más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore all values</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T050234Z" creationid="camilo" creationdate="20170623T050224Z">
+        <seg>Restaurar todos los valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore values</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T065612Z" creationid="camilo" creationdate="20170622T065612Z">
+        <seg>Restaurar valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some message in English for testing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T025059Z" creationid="camilo" creationdate="20170626T025059Z">
+        <seg>Algún mensaje en inglés para probar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some test message</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T082731Z" creationid="camilo" creationdate="20170623T082502Z">
+        <seg>Algún mensaje de prueba5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sync test message</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T072151Z" creationid="camilo" creationdate="20170623T072151Z">
+        <seg>Mensaje de prueba de sincronización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a
+b
+c</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T084801Z" creationid="camilo" creationdate="20170622T084801Z">
+        <seg>valor 1
+valor 2
+valor 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a boyfriend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T064051Z" creationid="camilo" creationdate="20170626T064051Z">
+        <seg>Un novio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a friend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T064057Z" creationid="camilo" creationdate="20170626T064057Z">
+        <seg>Un amigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a girlfriend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T064053Z" creationid="camilo" creationdate="20170626T064053Z">
+        <seg>Una novia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a new message</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T055125Z" creationid="camilo" creationdate="20170623T055113Z">
+        <seg>Un nuevo mensaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a test message</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T073230Z" creationid="camilo" creationdate="20170623T073230Z">
+        <seg>Un mensaje de prueba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>added {{something}}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T084741Z" creationid="camilo" creationdate="20170622T084741Z">
+        <seg>Se agregó {{something}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>agregó {{something}}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T101629Z" creationid="camilo" creationdate="20170622T101629Z">
+        <seg>agregó {{something}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>another test value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T005415Z" creationid="camilo" creationdate="20170623T005415Z">
+        <seg>Otro valor de prueba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>another thing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T101428Z" creationid="camilo" creationdate="20170622T101246Z">
+        <seg>Otra cosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bL##items##menu##item1</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Restore values</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bL##items##menu##item2</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>otra cosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bL##items##name</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>some name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bL##value</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>probando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>button##newValue</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>having a new value</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>button##save</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>save {{count}} change</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>button##value</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>testing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>having a new another value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T071614Z" creationid="camilo" creationdate="20170622T071614Z">
+        <seg>teniendo otro valor nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>having a new value</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T065754Z" creationid="camilo" creationdate="20170622T065754Z">
+        <seg>agregando un nuevo valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hello men</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T060857Z" creationid="camilo" creationdate="20170626T060857Z">
+        <seg>hola Hombres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hello {{user}}</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T055212Z" creationid="camilo" creationdate="20170623T055212Z">
+        <seg>Hola{{user}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>last variable</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T073717Z" creationid="camilo" creationdate="20170626T073640Z">
+        <seg>la última variable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>new element for app</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T025325Z" creationid="camilo" creationdate="20170626T025325Z">
+        <seg>Elemento nuevo para aplicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>new element for some app</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T025544Z" creationid="camilo" creationdate="20170626T025544Z">
+        <seg>Elemento nuevo para aplicación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>new menu item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T025319Z" creationid="camilo" creationdate="20170626T025319Z">
+        <seg>Elemento de carta nueva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>no user</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T055429Z" creationid="camilo" creationdate="20170623T055429Z">
+        <seg>Ningún usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>other some other thing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T005428Z" creationid="camilo" creationdate="20170623T005428Z">
+        <seg>Otro alguna otra cosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>otra cosa</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T101519Z" creationid="camilo" creationdate="20170622T065614Z">
+        <seg>Otra cosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>probando</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T065600Z" creationid="camilo" creationdate="20170622T065600Z">
+        <seg>Probando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T064116Z" creationid="camilo" creationdate="20170626T064116Z">
+        <seg>Salva cambio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T064123Z" creationid="camilo" creationdate="20170626T064123Z">
+        <seg>Salva cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save {{count}} change</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T083820Z" creationid="camilo" creationdate="20170622T065542Z">
+        <seg>Guardar {{count}} cambio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save {{count}} changes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T061529Z" creationid="camilo" creationdate="20170622T065551Z">
+        <seg>Salvar {{contar}} cambios 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>second element</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T051243Z" creationid="camilo" creationdate="20170623T051120Z">
+        <seg>2elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>settings view button</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T070119Z" creationid="camilo" creationdate="20170622T070119Z">
+        <seg>boton de settings view</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>settings view values</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T071234Z" creationid="camilo" creationdate="20170622T071234Z">
+        <seg>valores de vista de ajustes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some name</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T065607Z" creationid="camilo" creationdate="20170622T065607Z">
+        <seg>Algún nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some new menu item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T010521Z" creationid="camilo" creationdate="20170623T010521Z">
+        <seg>Algunos elemento de carta nueva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some other one once again</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T062019Z" creationid="camilo" creationdate="20170626T062019Z">
+        <seg>Algunos otro uno una vez más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some other thing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T101416Z" creationid="camilo" creationdate="20170622T101251Z">
+        <seg>Alguna otra cosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some test variable</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T063028Z" creationid="camilo" creationdate="20170626T063028Z">
+        <seg>Alguna variable de prueba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some test variable 3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T071841Z" creationid="camilo" creationdate="20170626T071841Z">
+        <seg>Alguna variable de prueba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>testing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170622T065556Z" creationid="camilo" creationdate="20170622T065556Z">
+        <seg>Probando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>testing value my friend</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T010050Z" creationid="camilo" creationdate="20170623T005407Z">
+        <seg>Valor de prueba mi amigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the fourth item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T050439Z" creationid="camilo" creationdate="20170623T050439Z">
+        <seg>El cuarto elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the last item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T013135Z" creationid="camilo" creationdate="20170623T013135Z">
+        <seg>El último elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the third item</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T050520Z" creationid="camilo" creationdate="20170623T050520Z">
+        <seg>El tercer elemento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>this is another message</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T060104Z" creationid="camilo" creationdate="20170623T060104Z">
+        <seg>Esto es otro mensaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>this is something new</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T023153Z" creationid="camilo" creationdate="20170626T023153Z">
+        <seg>Esto es algo nuevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T021952Z" creationid="camilo" creationdate="20170626T021952Z">
+        <seg>Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation test</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T081324Z" creationid="camilo" creationdate="20170623T081324Z">
+        <seg>Prueba de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user login</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T055910Z" creationid="camilo" creationdate="20170623T055910Z">
+        <seg>Iniciar sesión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>welcome to acorde.onl</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T055754Z" creationid="camilo" creationdate="20170623T055754Z">
+        <seg>Bienvenido a acorde.onl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you have a message</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T064101Z" creationid="camilo" creationdate="20170626T064101Z">
+        <seg> Tienes un mensaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you have many messages</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170626T064105Z" creationid="camilo" creationdate="20170626T064105Z">
+        <seg> Tienes muchos mensajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{user}} is a he</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T055442Z" creationid="camilo" creationdate="20170623T055442Z">
+        <seg>{{user}} es un el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{user}} is a her</seg>
+      </tuv>
+      <tuv lang="ES" changeid="camilo" changedate="20170623T055447Z" creationid="camilo" creationdate="20170623T055447Z">
+        <seg>{{user}} es una ella</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">test/common.po</prop>
+      <prop type="path">[1]</prop>
+      <tuv lang="EN">
+        <seg>button##save</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>save {{count}} changes</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
